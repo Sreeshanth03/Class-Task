@@ -1,0 +1,28 @@
+.main{
+    display: flex;
+    gap: 40px;
+background-color: blueviolet;
+padding: 20px 20px;
+justify-content: space-between;
+align-items: center;
+}
+.main-1{
+   
+  
+   
+}
+.main-2>span{
+    gap: 40px;
+  
+    padding: 20px 20px;
+    cursor: pointer;
+    align-items: center;
+    color: white;
+  
+}
+#span1,#span2,#span3{
+    background-color: rgb(41, 19, 129);
+}
+#span2{
+   
+}
